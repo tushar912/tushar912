@@ -22,23 +22,8 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/golang.png"/> <img src="https://img.icons8.com/color/48/000000/docker.png"/> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/open-source.png"/>
  <img src="https://img.icons8.com/ios-filled/50/000000/django.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/postgresql.png"/>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   6 mins          █████████████████▒░░░░░░░   69.71 % 
-HTML         2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.29 % 
-```
-<!--END_SECTION:waka-->
-
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,837 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 642 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
+📊 **What I am working on:**
+I am working on Devops
 
 📈 My GitHub Stats
 
